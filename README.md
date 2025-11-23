@@ -2,6 +2,8 @@
 
 > status: Em desevolvimento
 
+para rodar esse projeto na sua maquina, por favor digite:
+
 ```
-Ola a todos
+node app.js
 ```
